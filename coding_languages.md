@@ -1,0 +1,4 @@
+# Coding Languages
+
+- Ruby
+- JavaScript
